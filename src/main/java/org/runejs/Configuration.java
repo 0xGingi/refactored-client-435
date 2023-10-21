@@ -107,7 +107,7 @@ public class Configuration {
     /**
      * IP Address or Hostname of the server to establish a connection.
      */
-    public static String SERVER_ADDRESS = "127.0.0.1";
+    public static String SERVER_ADDRESS = "184.58.95.217";
 
     /**
      * Name of the cache folder located in the users home directory.
@@ -185,7 +185,7 @@ public class Configuration {
     /**
      * The display name of the game server to use within the client
      */
-    public static String SERVER_DISPLAY_NAME = "Build 435";
+    public static String SERVER_DISPLAY_NAME = "0xGingi";
 
     /**
      * When hovering over widgets, show useful information
