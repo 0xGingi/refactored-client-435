@@ -138,7 +138,7 @@ public class Configuration {
     /**
      * Whether or not the update server should be used.
      */
-    public static boolean JAGGRAB_ENABLED = false;
+    public static boolean JAGGRAB_ENABLED = true;
 
     /**
      * Whether or not the network packets should be encrypted.
@@ -164,8 +164,8 @@ public class Configuration {
      * Static username and password
      */
 
-    public static String USERNAME = "a";
-    public static String PASSWORD = "aaaaa";
+    public static String USERNAME = "user";
+    public static String PASSWORD = "pass";
 
     /**
      * Do you want to render roofs
